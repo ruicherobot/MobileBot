@@ -1,14 +1,3 @@
-/*******************************************************************************
-*                 Mobilebot Template Code for MBot/MBot-Mini
-*                           pgaskell@umich.edu
-*       
-*    This code is a template for completing a fully featured
-*    mobile robot controller
-*   
-*    Functions that need completing are marked with "TODO:"
-*
-*******************************************************************************/
-
 bin/			      : Binaries folder
 mobilebot/mobilebot.c/.h      : Main setup and threads
 test_motors/test_motors.c/.h  : Program to test motor implementation
